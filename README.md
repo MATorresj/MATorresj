@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 ¡Hola! Soy Miguel Torres
+Soy Desarrollador Full Stack con preferencia por el backend, aunque siempre estoy dispuesto a adaptarme a las necesidades del proyecto. Me apasiona crear aplicaciones funcionales, optimizadas y escalables.
 
-<!--
-**MATorresj/MATorresj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologías que manejo:
+Lenguajes: JavaScript, TypeScript
+Frontend: React, Bootstrap, HTML5, CSS3
+Backend: Node.js, Express, NestJS
+Bases de datos: PostgreSQL, MongoDB
+Herramientas: Swagger, Docker, Git, Nodemailer, Cloudinary
+🚀 ¿Qué busco?
+Estoy buscando nuevas oportunidades para colaborar en proyectos interesantes y seguir creciendo como desarrollador.
 
-Here are some ideas to get you started:
+📫 Hablemos:
+Si tienes ideas o proyectos en los que pueda contribuir, ¡estaré encantado de conectar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: https://www.linkedin.com/in/miguel-angel-torres-jaramillo
+Correo: miguel.torres99@outlook.com
